@@ -3,10 +3,6 @@
 pages/_app.tsx,5/5/550528cc072fa7d76d123e2f4303d4ab39daa8e8
 B
 styles/globals.css,8/c/8c258232cbcd5d83991c524a9e86c8d3f984fc57
->
-next.config.js,8/1/811a6d5a2e04fadb44d8eec365f2fa8af5c4facf
-A
-postcss.config.js,3/f/3f70684581fd16ab3be77ca959e0138ef3ee8bfb
 =
 next-env.d.ts,7/9/7948598afd6f2aa542f1b55d7b6f077a70937e77
 :
