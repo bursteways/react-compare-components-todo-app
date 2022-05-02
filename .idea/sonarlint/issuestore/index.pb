@@ -14,8 +14,6 @@ A
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 @
 .prettierrc.json,1/e/1ee5d199ddbeaaa1717e65b449ac7a6f03bed689
-B
-tailwind.config.js,0/9/0918cbb76f2c44f223706cec9d31a32cd1177ce4
 C
 components/index.ts,0/5/05dbfbf07fc5a6a9b19ce700edff227ea53054e0
 a

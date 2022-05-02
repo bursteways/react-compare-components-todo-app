@@ -4,68 +4,68 @@
 
 "@next/env@12.1.5":
   version "12.1.5"
-  resolved "https://registry.yarnpkg.com/@next/env/-/env-12.1.5.tgz#a21ba6708022d630402ca2b340316e69a0296dfc"
-  integrity sha512-+34yUJslfJi7Lyx6ELuN8nWcOzi27izfYnZIC1Dqv7kmmfiBVxgzR3BXhlvEMTKC2IRJhXVs2FkMY+buQe3k7Q==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/@next/env/-/env-12.1.5.tgz#a21ba6708022d630402ca2b340316e69a0296dfc"
+  integrity sha1-ohumcIAi1jBALKKzQDFuaaApbfw=
 
 "@next/swc-android-arm-eabi@12.1.5":
   version "12.1.5"
-  resolved "https://registry.yarnpkg.com/@next/swc-android-arm-eabi/-/swc-android-arm-eabi-12.1.5.tgz#36729ab3dfd7743e82cfe536b43254dcb146620c"
-  integrity sha512-SKnGTdYcoN04Y2DvE0/Y7/MjkA+ltsmbuH/y/hR7Ob7tsj+8ZdOYuk+YvW1B8dY20nDPHP58XgDTSm2nA8BzzA==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/@next/swc-android-arm-eabi/-/swc-android-arm-eabi-12.1.5.tgz#36729ab3dfd7743e82cfe536b43254dcb146620c"
+  integrity sha1-NnKas9/XdD6Cz+U2tDJU3LFGYgw=
 
 "@next/swc-android-arm64@12.1.5":
   version "12.1.5"
-  resolved "https://registry.yarnpkg.com/@next/swc-android-arm64/-/swc-android-arm64-12.1.5.tgz#52578f552305c92d0b9b81d603c9643fb71e0835"
-  integrity sha512-YXiqgQ/9Rxg1dXp6brXbeQM1JDx9SwUY/36JiE+36FXqYEmDYbxld9qkX6GEzkc5rbwJ+RCitargnzEtwGW0mw==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/@next/swc-android-arm64/-/swc-android-arm64-12.1.5.tgz#52578f552305c92d0b9b81d603c9643fb71e0835"
+  integrity sha1-UlePVSMFyS0Lm4HWA8lkP7ceCDU=
 
 "@next/swc-darwin-arm64@12.1.5":
   version "12.1.5"
-  resolved "https://registry.yarnpkg.com/@next/swc-darwin-arm64/-/swc-darwin-arm64-12.1.5.tgz#3d5b53211484c72074f4975ba0ec2b1107db300e"
-  integrity sha512-y8mhldb/WFZ6lFeowkGfi0cO/lBdiBqDk4T4LZLvCpoQp4Or/NzUN6P5NzBQZ5/b4oUHM/wQICEM+1wKA4qIVw==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/@next/swc-darwin-arm64/-/swc-darwin-arm64-12.1.5.tgz#3d5b53211484c72074f4975ba0ec2b1107db300e"
+  integrity sha1-PVtTIRSExyB09JdboOwrEQfbMA4=
 
 "@next/swc-darwin-x64@12.1.5":
   version "12.1.5"
-  resolved "https://registry.yarnpkg.com/@next/swc-darwin-x64/-/swc-darwin-x64-12.1.5.tgz#adcabb732d226453777c0d37d58eaff9328b66fd"
-  integrity sha512-wqJ3X7WQdTwSGi0kIDEmzw34QHISRIQ5uvC+VXmsIlCPFcMA+zM5723uh8NfuKGquDMiEMS31a83QgkuHMYbwQ==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/@next/swc-darwin-x64/-/swc-darwin-x64-12.1.5.tgz#adcabb732d226453777c0d37d58eaff9328b66fd"
+  integrity sha1-rcq7cy0iZFN3fA031Y6v+TKLZv0=
 
 "@next/swc-linux-arm-gnueabihf@12.1.5":
   version "12.1.5"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm-gnueabihf/-/swc-linux-arm-gnueabihf-12.1.5.tgz#82a7cde67482b756bc65fbebf1dfa8a782074e93"
-  integrity sha512-WnhdM5duONMvt2CncAl+9pim0wBxDS2lHoo7ub/o/i1bRbs11UTzosKzEXVaTDCUkCX2c32lIDi1WcN2ZPkcdw==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/@next/swc-linux-arm-gnueabihf/-/swc-linux-arm-gnueabihf-12.1.5.tgz#82a7cde67482b756bc65fbebf1dfa8a782074e93"
+  integrity sha1-gqfN5nSCt1a8Zfvr8d+op4IHTpM=
 
 "@next/swc-linux-arm64-gnu@12.1.5":
   version "12.1.5"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-12.1.5.tgz#f82ca014504950aab751e81f467492e9be0bad5d"
-  integrity sha512-Jq2H68yQ4bLUhR/XQnbw3LDW0GMQn355qx6rU36BthDLeGue7YV7MqNPa8GKvrpPocEMW77nWx/1yI6w6J07gw==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-12.1.5.tgz#f82ca014504950aab751e81f467492e9be0bad5d"
+  integrity sha1-+CygFFBJUKq3UegfRnSS6b4LrV0=
 
 "@next/swc-linux-arm64-musl@12.1.5":
   version "12.1.5"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-12.1.5.tgz#f811ec9f4b12a978426c284c95ab2f515ddf7f9e"
-  integrity sha512-KgPjwdbhDqXI7ghNN8V/WAiLquc9Ebe8KBrNNEL0NQr+yd9CyKJ6KqjayVkmX+hbHzbyvbui/5wh/p3CZQ9xcQ==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-12.1.5.tgz#f811ec9f4b12a978426c284c95ab2f515ddf7f9e"
+  integrity sha1-+BHsn0sSqXhCbChMlasvUV3ff54=
 
 "@next/swc-linux-x64-gnu@12.1.5":
   version "12.1.5"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-12.1.5.tgz#d44857257e6d20dc841998951d584ab1f25772c3"
-  integrity sha512-O2ErUTvCJ6DkNTSr9pbu1n3tcqykqE/ebty1rwClzIYdOgpB3T2MfEPP+K7GhUR87wmN/hlihO9ch7qpVFDGKw==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-12.1.5.tgz#d44857257e6d20dc841998951d584ab1f25772c3"
+  integrity sha1-1EhXJX5tINyEGZiVHVhKsfJXcsM=
 
 "@next/swc-linux-x64-musl@12.1.5":
   version "12.1.5"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-12.1.5.tgz#3cc523abadc9a2a6de680593aff06e71cc29ecef"
-  integrity sha512-1eIlZmlO/VRjxxzUBcVosf54AFU3ltAzHi+BJA+9U/lPxCYIsT+R4uO3QksRzRjKWhVQMRjEnlXyyq5SKJm7BA==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-12.1.5.tgz#3cc523abadc9a2a6de680593aff06e71cc29ecef"
+  integrity sha1-PMUjq63JoqbeaAWTr/Buccwp7O8=
 
 "@next/swc-win32-arm64-msvc@12.1.5":
   version "12.1.5"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-12.1.5.tgz#c62232d869f1f9b22e8f24e4e7f05307c20f30ca"
-  integrity sha512-oromsfokbEuVb0CBLLE7R9qX3KGXucZpsojLpzUh1QJjuy1QkrPJncwr8xmWQnwgtQ6ecMWXgXPB+qtvizT9Tw==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-12.1.5.tgz#c62232d869f1f9b22e8f24e4e7f05307c20f30ca"
+  integrity sha1-xiIy2Gnx+bIujyTk5/BTB8IPMMo=
 
 "@next/swc-win32-ia32-msvc@12.1.5":
   version "12.1.5"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-12.1.5.tgz#2bd9b28a9ba730d12a493e7d9d18e150fe89d496"
-  integrity sha512-a/51L5KzBpeZSW9LbekMo3I3Cwul+V+QKwbEIMA+Qwb2qrlcn1L9h3lt8cHqNTFt2y72ce6aTwDTw1lyi5oIRA==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-12.1.5.tgz#2bd9b28a9ba730d12a493e7d9d18e150fe89d496"
+  integrity sha1-K9myipunMNEqST59nRjhUP6J1JY=
 
 "@next/swc-win32-x64-msvc@12.1.5":
   version "12.1.5"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-12.1.5.tgz#02f377e4d41eaaacf265e34bab9bacd8efc4a351"
-  integrity sha512-/SoXW1Ntpmpw3AXAzfDRaQidnd8kbZ2oSni8u5z0yw6t4RwJvmdZy1eOaAADRThWKV+2oU90++LSnXJIwBRWYQ==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-12.1.5.tgz#02f377e4d41eaaacf265e34bab9bacd8efc4a351"
+  integrity sha1-AvN35NQeqqzyZeNLq5us2O/Eo1E=
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -89,9 +89,9 @@
     fastq "^1.6.0"
 
 "@types/node@^17.0.29":
-  version "17.0.29"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/@types/node/-/node-17.0.29.tgz#7f2e1159231d4a077bb660edab0fde373e375a3d"
-  integrity sha1-fy4RWSMdSgd7tmDtqw/eNz43Wj0=
+  version "17.0.31"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/@types/node/-/node-17.0.31.tgz#a5bb84ecfa27eec5e1c802c6bbf8139bdb163a5d"
+  integrity sha1-pbuE7Pon7sXhyALGu/gTm9sWOl0=
 
 "@types/prop-types@*":
   version "15.7.5"
@@ -145,12 +145,12 @@ arg@^5.0.1:
   integrity sha1-6wyaj3d4bK0q+P8rhiiZhC17ats=
 
 autoprefixer@^10.4.5:
-  version "10.4.5"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/autoprefixer/-/autoprefixer-10.4.5.tgz#662193c744094b53d3637f39be477e07bd904998"
-  integrity sha1-ZiGTx0QJS1PTY385vkd+B72QSZg=
+  version "10.4.6"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/autoprefixer/-/autoprefixer-10.4.6.tgz#ce6eba3aea7c03adf0f6a907bd594fd170b3f0b6"
+  integrity sha1-zm66Oup8A63w9qkHvVlP0XCz8LY=
   dependencies:
-    browserslist "^4.20.2"
-    caniuse-lite "^1.0.30001332"
+    browserslist "^4.20.3"
+    caniuse-lite "^1.0.30001334"
     fraction.js "^4.2.0"
     normalize-range "^0.1.2"
     picocolors "^1.0.0"
@@ -168,7 +168,7 @@ braces@^3.0.2, braces@~3.0.2:
   dependencies:
     fill-range "^7.0.1"
 
-browserslist@^4.20.2:
+browserslist@^4.20.3:
   version "4.20.3"
   resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/browserslist/-/browserslist-4.20.3.tgz#eb7572f49ec430e054f56d52ff0ebe9be915f8bf"
   integrity sha1-63Vy9J7EMOBU9W1S/w6+m+kV+L8=
@@ -184,10 +184,10 @@ camelcase-css@^2.0.1:
   resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/camelcase-css/-/camelcase-css-2.0.1.tgz#ee978f6947914cc30c6b44741b6ed1df7f043fd5"
   integrity sha1-7pePaUeRTMMMa0R0G27R338EP9U=
 
-caniuse-lite@^1.0.30001283, caniuse-lite@^1.0.30001332:
-  version "1.0.30001334"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001334.tgz#892e9965b35285033fc2b8a8eff499fe02f13d8b"
-  integrity sha512-kbaCEBRRVSoeNs74sCuq92MJyGrMtjWVfhltoHUCW4t4pXFvGjUBrfo47weBRViHkiV3eBYyIsfl956NtHGazw==
+caniuse-lite@^1.0.30001283, caniuse-lite@^1.0.30001332, caniuse-lite@^1.0.30001334:
+  version "1.0.30001335"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/caniuse-lite/-/caniuse-lite-1.0.30001335.tgz#899254a0b70579e5a957c32dced79f0727c61f2a"
+  integrity sha1-iZJUoLcFeeWpV8MtztefByfGHyo=
 
 chokidar@^3.5.3:
   version "3.5.3"
@@ -251,9 +251,9 @@ csstype@^3.0.2:
   integrity sha1-1mcAxerPrBlA3rTj7lZCeS2FzTM=
 
 daisyui@^2.14.2:
-  version "2.14.2"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/daisyui/-/daisyui-2.14.2.tgz#be36e1c9687b985288b15246029ee2c3d4f48425"
-  integrity sha1-vjbhyWh7mFKIsVJGAp7iw9T0hCU=
+  version "2.14.3"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/daisyui/-/daisyui-2.14.3.tgz#3d3ce0d7f75c41af949c163f0709fde95370c591"
+  integrity sha1-PTzg1/dcQa+UnBY/Bwn96VNwxZE=
   dependencies:
     color "^4.2"
     css-selector-tokenizer "^0.8.0"
@@ -285,9 +285,9 @@ dlv@^1.1.3:
   integrity sha1-XBmKihFFNZbnUUlNSYdLx3MvLnk=
 
 electron-to-chromium@^1.4.118:
-  version "1.4.124"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/electron-to-chromium/-/electron-to-chromium-1.4.124.tgz#e9015e234d8632920dcdf5480351da9e845ed220"
-  integrity sha1-6QFeI02GMpINzfVIA1HanoRe0iA=
+  version "1.4.129"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/electron-to-chromium/-/electron-to-chromium-1.4.129.tgz#c675793885721beefff99da50f57c6525c2cd238"
+  integrity sha1-xnV5OIVyG+7/+Z2lD1fGUlws0jg=
 
 escalade@^3.1.1:
   version "3.1.1"
@@ -398,8 +398,8 @@ is-number@^7.0.0:
 
 "js-tokens@^3.0.0 || ^4.0.0":
   version "4.0.0"
-  resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
-  integrity sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
+  integrity sha1-GSA/tZmR35jjoocFDUZHzerzJJk=
 
 lilconfig@^2.0.5:
   version "2.0.5"
@@ -408,8 +408,8 @@ lilconfig@^2.0.5:
 
 loose-envify@^1.1.0:
   version "1.4.0"
-  resolved "https://registry.yarnpkg.com/loose-envify/-/loose-envify-1.4.0.tgz#71ee51fa7be4caec1a63839f7e682d8132d30caf"
-  integrity sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/loose-envify/-/loose-envify-1.4.0.tgz#71ee51fa7be4caec1a63839f7e682d8132d30caf"
+  integrity sha1-ce5R+nvkyuwaY4OffmgtgTLTDK8=
   dependencies:
     js-tokens "^3.0.0 || ^4.0.0"
 
@@ -431,15 +431,15 @@ minimist@^1.1.1:
   resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
   integrity sha1-hjelt1nqDW6YcCz7OpKDMjyTr0Q=
 
-nanoid@^3.1.30, nanoid@^3.3.1:
+nanoid@^3.1.30, nanoid@^3.3.3:
   version "3.3.3"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.3.tgz#fd8e8b7aa761fe807dba2d1b98fb7241bb724a25"
-  integrity sha512-p1sjXuopFs0xg+fPASzQ28agW1oHD7xDsd9Xkf3T15H3c/cifrFHVwrh74PdoklAPi+i7MdRsE47vm2r6JoB+w==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/nanoid/-/nanoid-3.3.3.tgz#fd8e8b7aa761fe807dba2d1b98fb7241bb724a25"
+  integrity sha1-/Y6Leqdh/oB9ui0bmPtyQbtySiU=
 
 next@12.1.5:
   version "12.1.5"
-  resolved "https://registry.yarnpkg.com/next/-/next-12.1.5.tgz#7a07687579ddce61ee519493e1c178d83abac063"
-  integrity sha512-YGHDpyfgCfnT5GZObsKepmRnne7Kzp7nGrac07dikhutWQug7hHg85/+sPJ4ZW5Q2pDkb+n0FnmLkmd44htIJQ==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/next/-/next-12.1.5.tgz#7a07687579ddce61ee519493e1c178d83abac063"
+  integrity sha1-egdodXndzmHuUZST4cF42Dq6wGM=
   dependencies:
     "@next/env" "12.1.5"
     caniuse-lite "^1.0.30001283"
@@ -486,8 +486,8 @@ path-parse@^1.0.7:
 
 picocolors@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/picocolors/-/picocolors-1.0.0.tgz#cb5bdc74ff3f51892236eaf79d68bc44564ab81c"
-  integrity sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/picocolors/-/picocolors-1.0.0.tgz#cb5bdc74ff3f51892236eaf79d68bc44564ab81c"
+  integrity sha1-y1vcdP8/UYkiNur3nWi8RFZKuBw=
 
 picomatch@^2.0.4, picomatch@^2.2.1, picomatch@^2.3.1:
   version "2.3.1"
@@ -531,19 +531,19 @@ postcss-value-parser@^4.2.0:
 
 postcss@8.4.5:
   version "8.4.5"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.5.tgz#bae665764dfd4c6fcc24dc0fdf7e7aa00cc77f95"
-  integrity sha512-jBDboWM8qpaqwkMwItqTQTiFikhs/67OYVvblFFTM7MrZjt6yMKd6r2kgXizEbTTljacm4NldIlZnhbjr84QYg==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/postcss/-/postcss-8.4.5.tgz#bae665764dfd4c6fcc24dc0fdf7e7aa00cc77f95"
+  integrity sha1-uuZldk39TG/MJNwP3356oAzHf5U=
   dependencies:
     nanoid "^3.1.30"
     picocolors "^1.0.0"
     source-map-js "^1.0.1"
 
 postcss@^8.4.12:
-  version "8.4.12"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/postcss/-/postcss-8.4.12.tgz#1e7de78733b28970fa4743f7da6f3763648b1905"
-  integrity sha1-Hn3nhzOyiXD6R0P32m83Y2SLGQU=
+  version "8.4.13"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/postcss/-/postcss-8.4.13.tgz#7c87bc268e79f7f86524235821dfdf9f73e5d575"
+  integrity sha1-fIe8Jo559/hlJCNYId/fn3Pl1XU=
   dependencies:
-    nanoid "^3.3.1"
+    nanoid "^3.3.3"
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
 
@@ -564,16 +564,16 @@ quick-lru@^5.1.1:
 
 react-dom@18.1.0:
   version "18.1.0"
-  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-18.1.0.tgz#7f6dd84b706408adde05e1df575b3a024d7e8a2f"
-  integrity sha512-fU1Txz7Budmvamp7bshe4Zi32d0ll7ect+ccxNu9FlObT605GOEB8BfO4tmRJ39R5Zj831VCpvQ05QPBW5yb+w==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/react-dom/-/react-dom-18.1.0.tgz#7f6dd84b706408adde05e1df575b3a024d7e8a2f"
+  integrity sha1-f23YS3BkCK3eBeHfV1s6Ak1+ii8=
   dependencies:
     loose-envify "^1.1.0"
     scheduler "^0.22.0"
 
 react@18.1.0:
   version "18.1.0"
-  resolved "https://registry.yarnpkg.com/react/-/react-18.1.0.tgz#6f8620382decb17fdc5cc223a115e2adbf104890"
-  integrity sha512-4oL8ivCz5ZEPyclFQXaNksK3adutVS8l2xzZU0cqEFrE9Sb7fC0EFK5uEk74wIreL1DERyjvsU915j1pcT2uEQ==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/react/-/react-18.1.0.tgz#6f8620382decb17fdc5cc223a115e2adbf104890"
+  integrity sha1-b4YgOC3ssX/cXMIjoRXirb8QSJA=
   dependencies:
     loose-envify "^1.1.0"
 
@@ -607,8 +607,8 @@ run-parallel@^1.1.9:
 
 scheduler@^0.22.0:
   version "0.22.0"
-  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.22.0.tgz#83a5d63594edf074add9a7198b1bae76c3db01b8"
-  integrity sha512-6QAm1BgQI88NPYymgGQLCZgvep4FyePDWFpXVK+zNSUgHwlqpJy8VEh8Et0KxTACS4VWwMousBElAZOH9nkkoQ==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/scheduler/-/scheduler-0.22.0.tgz#83a5d63594edf074add9a7198b1bae76c3db01b8"
+  integrity sha1-g6XWNZTt8HSt2acZixuudsPbAbg=
   dependencies:
     loose-envify "^1.1.0"
 
@@ -621,13 +621,13 @@ simple-swizzle@^0.2.2:
 
 source-map-js@^1.0.1, source-map-js@^1.0.2:
   version "1.0.2"
-  resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.0.2.tgz#adbc361d9c62df380125e7f161f71c826f1e490c"
-  integrity sha512-R0XvVJ9WusLiqTCEiGCmICCMplcCkIwwR11mOSD9CR5u+IXYdiseeEuXCVAjS54zqwkLcPNnmU4OeJ6tUrWhDw==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/source-map-js/-/source-map-js-1.0.2.tgz#adbc361d9c62df380125e7f161f71c826f1e490c"
+  integrity sha1-rbw2HZxi3zgBJefxYfccgm8eSQw=
 
 styled-jsx@5.0.1:
   version "5.0.1"
-  resolved "https://registry.yarnpkg.com/styled-jsx/-/styled-jsx-5.0.1.tgz#78fecbbad2bf95ce6cd981a08918ce4696f5fc80"
-  integrity sha512-+PIZ/6Uk40mphiQJJI1202b+/dYeTVd9ZnMPR80pgiWbjIwvN2zIp4r9et0BgqBuShh48I0gttPlAXA7WVvBxw==
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/styled-jsx/-/styled-jsx-5.0.1.tgz#78fecbbad2bf95ce6cd981a08918ce4696f5fc80"
+  integrity sha1-eP7LutK/lc5s2YGgiRjORpb1/IA=
 
 supports-preserve-symlinks-flag@^1.0.0:
   version "1.0.0"
@@ -669,9 +669,9 @@ to-regex-range@^5.0.1:
     is-number "^7.0.0"
 
 typescript@^4.6.3:
-  version "4.6.3"
-  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/typescript/-/typescript-4.6.3.tgz#eefeafa6afdd31d725584c67a0eaba80f6fc6c6c"
-  integrity sha1-7v6vpq/dMdclWExnoOq6gPb8bGw=
+  version "4.6.4"
+  resolved "https://ab-inbev.pkgs.visualstudio.com/GHQ_B2B_Delta/_packaging/nfa-services/npm/registry/typescript/-/typescript-4.6.4.tgz#caa78bbc3a59e6a5c510d35703f6a09877ce45e9"
+  integrity sha1-yqeLvDpZ5qXFENNXA/agmHfORek=
 
 util-deprecate@^1.0.2:
   version "1.0.2"
