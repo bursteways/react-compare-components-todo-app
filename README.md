@@ -25,15 +25,15 @@
 **Live Coding** - shared repo of **TODO App with TS**
 
 - **Class component**
-    [] Super
-    [] LifeCycleMethods
+   - [ ] Super
+   - [ ] LifeCycleMethods
         - ComponentWillMount etc.
-    [] Methods
+   - [ ] Methods
         - `this`
         - render
-    [] Props
+   - [ ] Props
 - **Functional component**
-    [] Hooks
+   - [ ] Hooks
         - **useEffect**
             - Lifecycle methods
         - **useState**
