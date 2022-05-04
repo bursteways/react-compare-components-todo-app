@@ -477,7 +477,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["browserslist", "npm:4.20.3"],\
             ["caniuse-lite", "npm:1.0.30001335"],\
-            ["electron-to-chromium", "npm:1.4.129"],\
+            ["electron-to-chromium", "npm:1.4.132"],\
             ["escalade", "npm:3.1.1"],\
             ["node-releases", "npm:2.0.4"],\
             ["picocolors", "npm:1.0.0"]\
@@ -773,10 +773,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["electron-to-chromium", [\
-        ["npm:1.4.129", {\
-          "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.4.129-b443681cdd-bc83599d5b.zip/node_modules/electron-to-chromium/",\
+        ["npm:1.4.132", {\
+          "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.4.132-04d2ff63af-133be125d1.zip/node_modules/electron-to-chromium/",\
           "packageDependencies": [\
-            ["electron-to-chromium", "npm:1.4.129"]\
+            ["electron-to-chromium", "npm:1.4.132"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1417,10 +1417,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["nanoid", [\
-        ["npm:3.3.3", {\
-          "packageLocation": "./.yarn/cache/nanoid-npm-3.3.3-25d865be84-ada019402a.zip/node_modules/nanoid/",\
+        ["npm:3.3.4", {\
+          "packageLocation": "./.yarn/cache/nanoid-npm-3.3.4-3d250377d6-2fddd6dee9.zip/node_modules/nanoid/",\
           "packageDependencies": [\
-            ["nanoid", "npm:3.3.3"]\
+            ["nanoid", "npm:3.3.4"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1627,7 +1627,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/postcss-npm-8.4.13-bf011159f8-514fb35528.zip/node_modules/postcss/",\
           "packageDependencies": [\
             ["postcss", "npm:8.4.13"],\
-            ["nanoid", "npm:3.3.3"],\
+            ["nanoid", "npm:3.3.4"],\
             ["picocolors", "npm:1.0.0"],\
             ["source-map-js", "npm:1.0.2"]\
           ],\
@@ -1637,7 +1637,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/postcss-npm-8.4.5-675038f8bb-b78abdd89c.zip/node_modules/postcss/",\
           "packageDependencies": [\
             ["postcss", "npm:8.4.5"],\
-            ["nanoid", "npm:3.3.3"],\
+            ["nanoid", "npm:3.3.4"],\
             ["picocolors", "npm:1.0.0"],\
             ["source-map-js", "npm:1.0.2"]\
           ],\
