@@ -109,6 +109,7 @@ export class TODOViaClasses extends Component<IProps, IState> {
           <div className="grid grid-cols-12 gap-4 justify-between items-end">
             <div className="col-span-8">
               <TextInput
+                id="todo-input"
                 innerRef={this.inputRef}
                 label="What do you have todo?"
               />
@@ -142,6 +143,7 @@ export class TODOViaClasses extends Component<IProps, IState> {
                       className={`label-text ${
                         isComplete && 'line-through italic'
                       }`}
+                      title={title}
                     >
                       {title}
                     </span>
@@ -149,6 +151,7 @@ export class TODOViaClasses extends Component<IProps, IState> {
                   <button
                     className="btn btn-sm btn-error btn-circle"
                     onClick={(): void => this.onRemoveItem(id)}
+                    title={`delete ${title}`}
                   >
                     <RemoveSVG />
                   </button>

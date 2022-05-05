@@ -7,23 +7,25 @@ import {
 
 // Types
 interface IProps extends InputHTMLAttributes<HTMLInputElement> {
+  id: string;
   label: string;
 }
 
 export const TextInput = forwardRef(
   (props: IProps, ref: ForwardedRef<HTMLInputElement>): ReactElement => {
-    const { label } = props;
+    const { id, label } = props;
 
     return (
       <div className="form-control w-full">
-        <label className="label">
+        <label className="label" id={id}>
           <span className="label-text">{label}</span>
         </label>
         <input
-          type="text"
-          placeholder="Type here"
+          aria-labelledby={id}
           className="input input-bordered"
+          placeholder="Type here"
           ref={ref}
+          type="text"
         />
       </div>
     );

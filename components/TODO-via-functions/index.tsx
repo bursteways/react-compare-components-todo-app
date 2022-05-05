@@ -83,7 +83,11 @@ export const TODOViaFunctions = (): ReactElement => {
       <form onSubmit={onAddItem}>
         <div className="grid grid-cols-12 gap-4 justify-between items-end">
           <div className="col-span-8">
-            <TextInput ref={inputEl} label="What do you have todo?" />
+            <TextInput
+              id="todo-input"
+              ref={inputEl}
+              label="What do you have todo?"
+            />
           </div>
           <button
             className="btn btn-accent col-span-4"
@@ -114,6 +118,7 @@ export const TODOViaFunctions = (): ReactElement => {
                     className={`label-text ${
                       isComplete && 'line-through italic'
                     }`}
+                    title={title}
                   >
                     {title}
                   </span>
@@ -121,6 +126,7 @@ export const TODOViaFunctions = (): ReactElement => {
                 <button
                   className="btn btn-sm btn-error btn-circle"
                   onClick={(): void => onRemoveItem(id)}
+                  title={`delete ${title}`}
                 >
                   <RemoveSVG />
                 </button>

@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "test": "jest",
+    "test:coverage": "jest --coverage"
   },
   "dependencies": {
     "daisyui": "^2.14.2",
@@ -15,12 +17,26 @@
     "react-dom": "18.1.0"
   },
   "devDependencies": {
+    "@babel/runtime": "^7.17.9",
+    "@testing-library/dom": "^8.13.0",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.2.0",
+    "@testing-library/user-event": "^14.1.1",
+    "@types/jest": "^27.5.0",
     "@types/node": "^17.0.29",
     "@types/react": "^18.0.8",
+    "@types/testing-library__jest-dom": "^5.14.3",
     "autoprefixer": "^10.4.5",
+    "babel-jest": "^28.0.3",
+    "jest": "^28.0.3",
+    "jest-environment-jsdom": "^28.0.2",
     "postcss": "^8.4.12",
     "prettier": "^2.6.2",
     "tailwindcss": "^3.0.24",
+    "ts-jest": "^28.0.1",
     "typescript": "^4.6.3"
+  },
+  "engines": {
+    "node": ">=16.14"
   }
 }
