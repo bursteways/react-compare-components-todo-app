@@ -27,5 +27,5 @@ module.exports = {
     '^.+\\.(js|jsx|ts|tsx)$': ['babel-jest', { presets: ['next/babel'] }],
   },
   setupFilesAfterEnv: ['./jest.setup.js'],
-  roots: ['pages', 'components', 'utils'],
+  roots: ['pages', 'components', 'utils', '__tests__'],
 };
